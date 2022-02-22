@@ -12,4 +12,4 @@ RQ1 : Does BMI affect the incidence of stroke? The research will be investigatin
 
 RQ2 : Do certain personal lifestyles/demographic variables (gender, smoking status, living conditions) affect the incidence of stroke? This research will also be looking into the relationship between stroke and the other demographic variables such as, but not limited to, gender, smoking status, living conditions in order to provide the factors that actually affect trigger stroke incidents.
 
-This repository is to store any files related to this project, including research pitch, research journals, datasets, R files, and SQL files for data cleaning. To open this project in RStudio, simply open the ```assignment-2.Rproj``` file.
+This repository is to store any files related to this project, including research pitch, research journals, datasets, R files, and SQL files for data cleaning. To open this project in RStudio, simply open the ```assignment-2.Rproj``` file. Originally, this repository was hosted on my university GitLab server, but it has been uploaded to GitHub for public visibility (and also because I will lose access to the server after graduation).
